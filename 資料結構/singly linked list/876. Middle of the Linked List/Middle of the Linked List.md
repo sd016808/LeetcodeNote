@@ -1,4 +1,4 @@
-(876) Middle of the Linked List
+876 Middle of the Linked List
 ===========================
 回傳 Linked List 的 Middle Node，當總數為偶數時，回傳 Second Node
 ![](141.png)

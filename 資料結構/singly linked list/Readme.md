@@ -13,5 +13,7 @@ Singly Linked List 的六大類型
 
 5、[判断单链表是否包含环并找出环起点](./141.%20Linked%20List%20Cycle/Linked%20List%20Cycle.md)
 
+1. [進階](./142.%20Linked%20List%20Cycle%202/Linked%20List%20Cycle%202.md)
+
 6、判断两个单链表是否相交并找出交点
 
