@@ -9,9 +9,9 @@ Singly Linked List 的六大類型
 
 3、寻找单链表的倒数第 k 个节点
 
-4、寻找单链表的中点
+4、[寻找单链表的中点](./876.%20Middle%20of%20the%20Linked%20List/Middle%20of%20the%20Linked%20List.md)
 
-5、判断单链表是否包含环并找出环起点
+5、[判断单链表是否包含环并找出环起点](./141.%20Linked%20List%20Cycle/Linked%20List%20Cycle.md)
 
 6、判断两个单链表是否相交并找出交点
 
