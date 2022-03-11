@@ -6,7 +6,7 @@ Singly Linked List 心得
 1、當 List 的 head 可能會變更時，使用 dummy node 的技巧
 
 2、檢查是否有 Cycle loop 發生 (./141.%20Linked%20List%20Cycle/Linked%20List%20Cycle.md)
-1. [進階](./142.%20Linked%20List%20Cycle%202/Linked%20List%20Cycle%202.md)
+1. [找出 Cycle loop 發生的 node](./142.%20Linked%20List%20Cycle%202/Linked%20List%20Cycle%202.md)
 
 3、尋找倒數第 k 個 node (快慢指標)
 
